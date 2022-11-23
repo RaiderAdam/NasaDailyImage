@@ -16,3 +16,7 @@ Going to use DART.  Started to read up on it during vacation and this is a good 
 
 Usage for service:
 See README.md under nasa_daily_service
+
+Testing:
+Kubernetes manifest tested via local minikube with 
+kubectl expose deployment nasadailyservice-deployment --type=NodePort --port=8080 -n nasadailyservice
