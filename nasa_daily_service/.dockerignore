@@ -1,0 +1,7 @@
+.dockerignore
+Dockerfile
+builds/
+.dart_tool/
+.git/
+.gitignore/
+kubernetes/

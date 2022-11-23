@@ -13,3 +13,6 @@ Query: https://api.nasa.gov/planetary/apod?api_key=<MyApiKey>&date=<YYYY-MM-DD>
 
 Language: 
 Going to use DART.  Started to read up on it during vacation and this is a good opportunity for a first application.
+
+Usage for service:
+See README.md under nasa_daily_service
